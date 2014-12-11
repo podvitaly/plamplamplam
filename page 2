@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="main.css">
+	</head>
+	</body>
+		<div id="header">
+			Сайт группы МТ-550
+		</div>
+		<div id="container"> 
+			<div id="nav">
+				<ul style="list-style-type: none">
+					<li><a href="index.html">Информация</a></li>
+					<li>Нормативные документы >></li>
+				</ul>
+			</div>
+			<div id="content">
+				<p>Ссылки на документы:</p>
+				<ul>
+					<li><a href="http://docs.cntd.ru/document/1200071143">СП 1.13130.2009 Системы противопожарной защиты. Эвакуационные пути и выходы (с Изменением N 1)</a></li>
+					<li><a href="http://docs.cntd.ru/document/1200040973">Р 2.2.2006-05 Гигиена труда. Руководство по гигиенической оценке факторов рабочей среды и трудового процесса. Критерии и классификация условий труда</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="footer">
+			2010-2015
+		</div>
+	</body>
+</html>
